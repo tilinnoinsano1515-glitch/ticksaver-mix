@@ -4,10 +4,10 @@
     "win": "2.2081",
     "android": "2.2081"
   },
-  "id": "yourname.ticksaver-mix",
+  "id": "tilinnoinsano1515-glitch.ticksaver-mix",
   "name": "TickSaver Mix",
   "version": "v1.0.0",
-  "developer": "yourname",
+  "developer": "tilinnoinsano1515-glitch",
   "description": "Input buffer mix: early-press buffer (ground + orbs), hold extension and minimum hold, with a small overlay. Not for leaderboard or list submissions.",
   "settings": {
     "enabled": {
